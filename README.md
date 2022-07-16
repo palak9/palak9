@@ -4,8 +4,7 @@
 **palak9/palak9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-💬 I’m currently working as Software Engineer and is open to learning and exploring new technologies.
-
+💬 I’m currently working as Software Engineer and is open to learning and exploring technologies.
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
